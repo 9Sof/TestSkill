@@ -1,4 +1,4 @@
-const input = [[0], [1], [[2], [3]], [4]]
+const input = [[0], [1], [[2], [3],[4]], [5]]
 
 const output = []
 const push = (input) => {

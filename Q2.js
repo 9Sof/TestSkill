@@ -3,8 +3,8 @@ const input = [
     { id: 2, name: 'B' },
     { id: 3, name: 'A' },
     { id: 4, name: 'C' },
-    { id: 4, name: 'C' },
-    { id: 5, name: 'C' }
+    { id: 5, name: 'C' },
+    { id: 6, name: 'B' },
 ]
 
 const total = (input) => {
